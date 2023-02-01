@@ -1,0 +1,10 @@
+123456/AaaBbb/Morgan Freeman/8788 East Ohio St. Greenfield, IN 46140/9723854323/2778245040207084/premium/2
+7/C/Leonardo DiCaprio/75 Poplar Dr. Schaumburg, IL 60193/4304727882/0175802509891627/premium/1
+456789/EeeFff/Robert De Niro/371 South Golden Star Drive Hamden, CT 06514/6075961561/8476496529230174/premium/4
+123123/GggHhh/Brad Pitt/9228 Oak Valley Court Fort Lauderdale, FL 33308/5463820912/8938471364672832/premium/3
+4/I/Michael Caine/8468 Lower River Street Pottstown, PA 19464/5036822473/7888177822078729/regular/1
+789789/KkkLll/Matt Damon/8702 Garfield St. Zion, IL 60099/9472344851/0210563682893778/regular/1
+333333/QqqRrr/Al Pacino/9595 Philmont Street Rome, NY 13440/3022624030/4038508921769527/regular/1
+111111/MmmNnn/Tom Hanks/9818 S. Ann Drive Temple Hills, MD 20748/6727575299/0618709543245098/regular/9
+222222/OooPpp/Christian Bale/9657 Lake View Drive Saint Charles, IL 60174/7434537855/7669340734940630/regular/8
+Apandey/12345/Ashish/6309 94th/1234567/023740239/regular/0
